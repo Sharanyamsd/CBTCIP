@@ -1,3 +1,6 @@
+### Introduction
+I have created these two projects in C language as assigned to me by Cipher Byte Tech to address practical needs in education and finance management:
+
 ### Project: Student Grade Management System
 
 This C program manages student grades, allowing users to input student information and subject scores. It calculates average scores, identifies highest/lowest scores, and provides a summary of students' performance.
